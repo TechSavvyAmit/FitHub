@@ -149,15 +149,9 @@ We welcome contributions! Follow these steps to get started:
 
 ---
 
-## License 📜
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## Feedback & Support 💬
 
-If you encounter any issues or have suggestions, please feel free to open an [Issue](https://github.com/your-username/FitHub/issues) or contact us directly.
+We'd love to hear from you! If you come across any issues, or if you have any suggestions to make things better, don't hesitate to share your thoughts. Open an [Issue](https://github.com/TechSavvyAmit/FitHub/issues) or reach out directly via email at [amitk70200@gmail.com](mailto:amitk704200@gmail.com). Your feedback helps us grow and improve!
 
 ---
 
